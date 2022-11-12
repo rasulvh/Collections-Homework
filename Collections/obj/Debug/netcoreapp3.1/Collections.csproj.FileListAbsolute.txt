@@ -12,3 +12,22 @@ C:\Users\rasulvh\Desktop\C#\Tapsiriq\Collections\Collections\bin\Debug\netcoreap
 C:\Users\rasulvh\Desktop\C#\Tapsiriq\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
 C:\Users\rasulvh\Desktop\C#\Tapsiriq\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
 C:\Users\rasulvh\Desktop\C#\Tapsiriq\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Service.dll
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.AssemblyReference.cache
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CopyComplete
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\Masadakılar Rasul\Code Academy\Ev tapşırığı\C#\Collections-Homework\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache
